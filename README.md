@@ -9,7 +9,6 @@ I started with HTML CSS and JS, and now I'm learning in backend developing
 * 🌍  I'm based in Phayao, Thailand
 * ✉️  You can contact me at [worapon.klabsri@gmail.com](mailto:worapon.klabsri@gmail.com)
 * 🧠  I'm learning reactjs, firebase
-* 🤝  I'm open to collaborating on ggblog, about2day, localflix
 * ⚡  I'm a MARVEL fan
 
 <a href="https://www.twitch.tv/t31ly" target="_blank" rel="noreferrer"><img
