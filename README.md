@@ -6,7 +6,7 @@ Front-end Developer
 
 I started with HTML CSS and JS, and now I'm learning in backend developing
 
-* 🌍  I'm based in Phayao, Thailand
+* 🌍  I'm based in Suratthani, Thailand
 * ✉️  You can contact me at [worapon.klabsri@gmail.com](mailto:worapon.klabsri@gmail.com)
 * 🧠  I'm learning TypeScript, AngularJS
 * ⚡  I'm a MARVEL fan
