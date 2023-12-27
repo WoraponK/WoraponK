@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I started with HTML CSS and JS, and now I'm learning in backend developing
+I started with HTML CSS and JS, and now I'm learning in frontend development with frameworks.
 
 * 🌍  I'm based in Suratthani, Thailand
 * ✉️  You can contact me at [worapon.klabsri@gmail.com](mailto:worapon.klabsri@gmail.com)
