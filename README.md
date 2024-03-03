@@ -8,7 +8,7 @@ I started with HTML CSS and JS, and now I'm learning in frontend development wit
 
 * 🌍  I'm based in Suratthani, Thailand
 * ✉️  You can contact me at [worapon.klabsri@gmail.com](mailto:worapon.klabsri@gmail.com)
-* 🧠  I'm learning TypeScript, Angular, Vue
+* 🧠  I'm learning TypeScript, Nextjs
 * ⚡  I'm a MARVEL fan
 
 <a href="https://www.twitch.tv/t31ly" target="_blank" rel="noreferrer"><img
